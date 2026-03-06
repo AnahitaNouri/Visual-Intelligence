@@ -1,7 +1,6 @@
 # Comparative Analysis of CNN and ScatNet for Image Classification
 
 **Course:** Visual Intelligence  
-**Student:** Anahita Nouri — VR509464  
 **Task:** Binary classification of lung cancer histopathological images (Benign vs. Adenocarcinoma)
 
 ---
